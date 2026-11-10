@@ -74,16 +74,6 @@ Minha trajetória consolidada como **Analista de Logística e Processos** traz u
   - *Gestão Ágil: Scrum e Kanban* — Alura (2025)
 
 ---
-
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=almdxx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almdxx&layout=compact&theme=tokyonight&hide=html" alt="Linguagens Mais Utilizadas" />
-</div>
-
----
-
 <div align="center">
   <sub>© Carlos Eduardo de Almeida • Porto Alegre, RS</sub>
 </div>
